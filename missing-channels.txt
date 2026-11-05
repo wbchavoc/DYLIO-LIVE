@@ -1,0 +1,5 @@
+Source: https://raw.githubusercontent.com/wbchavoc/Live-TV/main/channels.m3u
+Found: 65/66
+
+Missing from upstream playlist:
+NBC Sports Network
