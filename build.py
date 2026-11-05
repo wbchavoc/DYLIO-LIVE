@@ -15,7 +15,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import urlsplit
 
-SOURCE = 'https://raw.githubusercontent.com/wbchavoc/Live-TV/main/wifi.m3u'
+SOURCE = 'https://raw.githubusercontent.com/wbchavoc/Live-TV/main/channels.m3u'
 
 # The EXACT channel names and IDs from the original DYLIO-LIVE builder.
 # Names are ordered for consistent grouping in VLC/AerioTV.
