@@ -1,6 +1,8 @@
 Source: https://raw.githubusercontent.com/wbchavoc/Live-TV/main/channels.m3u
-Found: 64/66
+Found: 62/66
 
 Missing from upstream playlist:
+ACC Network
 NBC Sports Network
+A&E
 Nickelodeon (United States)

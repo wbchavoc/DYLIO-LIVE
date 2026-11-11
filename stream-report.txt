@@ -1,10 +1,12 @@
 DYLIO-LIVE stream selection report (NOT a live playback check)
 Source: https://raw.githubusercontent.com/wbchavoc/Live-TV/main/channels.m3u
-Channels found: 64/66
+Channels found: 62/66
 Cellular URL differs from standard: 0
 
 Missing channel IDs from source:
+ACC Network
 NBC Sports Network
+A&E
 Nickelodeon (United States)
 
 Cellular URL differs (chosen by format/security/quality hints):
