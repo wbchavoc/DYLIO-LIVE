@@ -1,10 +1,10 @@
-DYLIO-LIVE EPG report (2026-11-16T16:44:55.525597+00:00)
+DYLIO-LIVE EPG report (2026-11-17T03:58:06.409434+00:00)
 Playlist IDs: 63
-US: 39 matched channel IDs / 12490 matched programmes
+US: 39 matched channel IDs / 11652 matched programmes
 Sports: 0 matched channel IDs / 0 matched programmes
-Free TV: 6 matched channel IDs / 911 matched programmes
+Free TV: 6 matched channel IDs / 767 matched programmes
 US Local: 0 matched channel IDs / 0 matched programmes
-UK: 13 matched channel IDs / 3946 matched programmes
+UK: 13 matched channel IDs / 3672 matched programmes
 Successfully read source files: 5/5
 Playlist IDs with programming: 44/63
 Without schedule: CBS Sports Golazo! Network, TBS (West), TNT (USA West), TruTV West, USA Today, WPXI NBC, AWE, AFV, Charge!, History Channel (United States), More True Crime, TMZ, Cinemax (United States) (West), Lifetime Movies, Starz West, TCM West, Nickelodeon Pluto, PBS Kids Eastern, PBS Kids Pacific
